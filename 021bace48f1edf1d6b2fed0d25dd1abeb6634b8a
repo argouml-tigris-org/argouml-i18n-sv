@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "341d9018_e83adf79",
+        "filename": "src/org/argouml/i18n/filechooser_sv.properties",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1016795
+      },
+      "writtenOn": "2026-07-12T11:16:48Z",
+      "side": 1,
+      "message": "Wrong year\n```suggestion\n# Copyright (c) 2026 Contributors - see below\n```",
+      "revId": "021bace48f1edf1d6b2fed0d25dd1abeb6634b8a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2f41a994_ee40054a",
+        "filename": "src/org/argouml/i18n/filechooser_sv.properties",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1016795
+      },
+      "writtenOn": "2026-07-12T11:16:48Z",
+      "side": 1,
+      "message": "Wrong year.\n```suggestion\n# Copyright (c) 2026 The Regents of the University of California. All\n```",
+      "revId": "021bace48f1edf1d6b2fed0d25dd1abeb6634b8a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
